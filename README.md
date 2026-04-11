@@ -4,8 +4,7 @@
 This project focuses on web scraping, data cleaning, and exploratory data analysis (EDA) of Electric Vehicle (EV) data. The dataset is collected from an online EV database and analyzed to extract meaningful insights about vehicle performance, efficiency, and market trends.
 
 🔗 Project Links
-Electric-Vehicle-Data-Web-Scraping-and-Analysis
-
+(https://github.com/Prem999k/Electric-Vehicle-Data-Web-Scraping-and-Analysis)
 
 📂 GitHub Repo: 
 ⚙️ Tech Stack
